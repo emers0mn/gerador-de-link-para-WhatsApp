@@ -1,4 +1,4 @@
-# gerador-de-link-para-WhatsApp
+# Gerador de link para WhatsApp
 Estou estudando mais a fundo o React para poder colocar em prática na empresa que trabalho hoje.
 Esse gerador de link para WhatsApp, é uma ideia que tive para poder colocar em prática uma ideia que tive sobre interação dentro do site.
 
